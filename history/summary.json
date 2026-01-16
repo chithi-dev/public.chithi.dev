@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "Chithi Public Instance",
+    "url": "https://chithi.dev/",
+    "icon": "https://icons.duckduckgo.com/ip3/chithi.dev.ico",
+    "slug": "chithi-public-instance",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 286,
-    "timeDay": 168,
-    "timeWeek": 286,
-    "timeMonth": 286,
-    "timeYear": 286,
+    "time": 1040,
+    "timeDay": 1040,
+    "timeWeek": 1040,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {}
   }
 ]
