@@ -4,19 +4,19 @@
     "url": "https://chithi.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/chithi.dev.ico",
     "slug": "https-chithi-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1689,
-    "timeDay": 3549,
-    "timeWeek": 1689,
-    "timeMonth": 1689,
-    "timeYear": 1689,
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "96.21%",
+    "uptimeYear": "96.21%",
+    "time": 1596,
+    "timeDay": 2433,
+    "timeWeek": 1596,
+    "timeMonth": 1596,
+    "timeYear": 1596,
     "dailyMinutesDown": {
-      "2026-03-12": 0
+      "2026-03-12": 90
     }
   },
   {
