@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chithi.dev.ico",
     "slug": "https-chithi-dev",
     "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "97.53%",
-    "time": 1525,
-    "timeDay": 1281,
-    "timeWeek": 1525,
-    "timeMonth": 1525,
-    "timeYear": 1525,
+    "uptime": "98.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "98.23%",
+    "time": 1552,
+    "timeDay": 1687,
+    "timeWeek": 1552,
+    "timeMonth": 1552,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2026-03-12": 90
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1618,
-    "timeDay": 1523,
-    "timeWeek": 1618,
-    "timeMonth": 1618,
-    "timeYear": 1618,
+    "time": 1646,
+    "timeDay": 1758,
+    "timeWeek": 1646,
+    "timeMonth": 1646,
+    "timeYear": 1646,
     "dailyMinutesDown": {}
   }
 ]
