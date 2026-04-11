@@ -1,21 +1,42 @@
 [
   {
+    "name": "Landing Page",
+    "url": "https://landing.chithi.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/landing.chithi.dev.ico",
+    "slug": "landing-page",
+    "status": "down",
+    "uptime": "22.63%",
+    "uptimeDay": "22.63%",
+    "uptimeWeek": "22.63%",
+    "uptimeMonth": "22.63%",
+    "uptimeYear": "22.63%",
+    "time": 3118,
+    "timeDay": 3118,
+    "timeWeek": 3118,
+    "timeMonth": 3118,
+    "timeYear": 3118,
+    "dailyMinutesDown": {
+      "2026-04-11": 1
+    }
+  },
+  {
     "name": "https://chithi.dev",
     "url": "https://chithi.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/chithi.dev.ico",
     "slug": "https-chithi-dev",
     "status": "down",
-    "uptime": "97.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "96.96%",
-    "uptimeYear": "97.11%",
+    "uptime": "96.11%",
+    "uptimeDay": "60.39%",
+    "uptimeWeek": "91.79%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "96.11%",
     "time": 2207,
     "timeDay": 1151,
-    "timeWeek": 1414,
+    "timeWeek": 1192,
     "timeMonth": 2278,
     "timeYear": 2207,
     "dailyMinutesDown": {
+      "2026-04-11": 570,
       "2026-04-07": 196,
       "2026-04-06": 61,
       "2026-04-04": 37,
@@ -24,8 +45,7 @@
       "2026-03-19": 45,
       "2026-03-18": 167,
       "2026-03-15": 287,
-      "2026-03-14": 68,
-      "2026-03-12": 90
+      "2026-03-14": 68
     }
   },
   {
@@ -34,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/valhalla.chithi.dev.ico",
     "slug": "https-valhalla-chithi-dev",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 1586,
-    "timeDay": 1510,
-    "timeWeek": 1612,
-    "timeMonth": 1586,
+    "timeDay": 1537,
+    "timeWeek": 1606,
+    "timeMonth": 1585,
     "timeYear": 1586,
     "dailyMinutesDown": {
       "2026-03-24": 58
