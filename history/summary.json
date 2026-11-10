@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/landing.chithi.dev.ico",
     "slug": "landing-page",
     "status": "down",
-    "uptime": "94.41%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
+    "uptime": "94.38%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "95.87%",
-    "uptimeYear": "94.41%",
+    "uptimeYear": "94.38%",
     "time": 3047,
     "timeDay": 19597,
     "timeWeek": 4276,
@@ -59,7 +59,7 @@
       "2026-10-10": 349,
       "2026-10-29": 816,
       "2026-10-28": 841,
-      "2026-11-10": 5
+      "2026-11-10": 102
     }
   },
   {
@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chithi.dev.ico",
     "slug": "https-chithi-dev",
     "status": "down",
-    "uptime": "63.50%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptime": "63.48%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "99.03%",
     "uptimeMonth": "77.59%",
-    "uptimeYear": "63.50%",
+    "uptimeYear": "63.48%",
     "time": 1327,
     "timeDay": 0,
     "timeWeek": 1339,
@@ -199,7 +199,7 @@
       "2026-10-26": 266,
       "2026-10-29": 816,
       "2026-10-28": 836,
-      "2026-11-10": 0
+      "2026-11-10": 97
     }
   },
   {
@@ -225,7 +225,7 @@
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1084,
-      "2026-11-10": 275,
+      "2026-11-10": 372,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
